@@ -12,7 +12,7 @@
   "extra": {
     "map" : [
       ["app/etc/modules/Jaro_SalesFix.xml", "app/etc/modules/Jaro_SalesFix.xml"],
-      ["app/code/local/Jaro/SalesFix", "app/code/local/Jaro/SalesFix"],
+      ["app/code/local/Jaro/SalesFix", "app/code/local/Jaro/SalesFix"]
     ]
   }
 }
