@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Jaro_SalesFix>
+            <version>0.1.0</version>
+        </Jaro_SalesFix>
+    </modules>
+    <global>
+        <resources>
+            <jaro_salesfix_setup>
+                <setup>
+                    <module>Jaro_SalesFix</module>
+                </setup>
+            </jaro_salesfix_setup>
+        </resources>
+    </global>
+</config>

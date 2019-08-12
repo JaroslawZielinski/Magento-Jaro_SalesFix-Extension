@@ -1,0 +1,18 @@
+{
+  "name": "jaroslawzielinski/jaro_salesfix",
+  "type": "magento-module",
+  "description": "data table fix",
+  "require": {
+  }, 
+  "authors":[
+    {
+      "name": "jaroslaw zielinski"
+    }
+  ],
+  "extra": {
+    "map" : [
+      ["app/etc/modules/Jaro_SalesFix.xml", "app/etc/modules/Jaro_SalesFix.xml"],
+      ["app/code/local/Jaro/SalesFix", "app/code/local/Jaro/SalesFix"],
+    ]
+  }
+}
