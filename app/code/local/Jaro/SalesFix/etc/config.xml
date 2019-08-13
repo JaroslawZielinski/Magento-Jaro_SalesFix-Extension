@@ -2,29 +2,10 @@
 <config>
     <modules>
         <Jaro_SalesFix>
-            <version>0.1.1</version>
+            <version>0.1.0</version>
         </Jaro_SalesFix>
     </modules>
     <global>
-        <models>
-            <jaro_salesfix>
-                <class>Jaro_SalesFix_Model</class>
-                <resourceModel>jaro_salesfix_resource</resourceModel>
-            </jaro_salesfix>
-            <jaro_salesfix_resource>
-                <class>Jaro_SalesFix_Model_Resource</class>
-            </jaro_salesfix_resource>
-        </models>
-        <blocks>
-            <jaro_salesfix>
-                <class>Jaro_SalesFix_Block</class>
-            </jaro_salesfix>
-        </blocks>
-        <helpers>
-            <jaro_salesfix>
-                <class>Jaro_SalesFix_Helper</class>
-            </jaro_salesfix>
-        </helpers>
         <resources>
             <jaro_salesfix_setup>
                 <setup>
@@ -34,4 +15,3 @@
         </resources>
     </global>
 </config>
-
