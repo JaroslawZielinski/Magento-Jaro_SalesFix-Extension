@@ -2,7 +2,7 @@
 <config>
     <modules>
         <Jaro_SalesFix>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
         </Jaro_SalesFix>
     </modules>
     <global>
@@ -34,3 +34,4 @@
         </resources>
     </global>
 </config>
+
